@@ -59,13 +59,17 @@ The ML model is implemented from scratch using NumPy and wrapped inside an inter
 
 4. Open your browser:
 
-   http://localhost:5000  
+   http://localhost:5000
 
 ### OR
 
-### Public Docker Image 
+### 🔹Public Docker Image (Recommended)
 
 1. You can also skip building and just pull the public image:
 
     ```bash
     docker run -p 5000:5000 menonabhineet/receipt-forecast
+
+2. Open your browser:
+
+   http://localhost:5000
